@@ -18,7 +18,6 @@ PRODUCT_PACKAGES += \
 
 # AOSP packages
 PRODUCT_PACKAGES += \
-    Email \
     ExactCalculator \
     Exchange2
 
@@ -28,7 +27,6 @@ PRODUCT_PACKAGES += \
     Backgrounds \
     Eleven \
     Etar \
-    Jelly \
     LockClock \
     Profiles \
     Seedvault \
